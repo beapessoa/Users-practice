@@ -6,6 +6,8 @@ The main features of this implementation using Python and it's libraries are: [F
 
 Recently the [frontend](./front/) part was developed with [Next](https://nextjs.org/).
 
+# Your task is to add an edit button to the users columns!!
+
 ## Backend
 
 ### 1. Setup
@@ -25,6 +27,8 @@ source venv/bin/activate
 #### 1.3. Install dependecies
 
 ```sh
+cd back
+
 pip install -r requirements.txt
 ```
 
